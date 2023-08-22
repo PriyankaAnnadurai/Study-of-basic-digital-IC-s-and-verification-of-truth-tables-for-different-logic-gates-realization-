@@ -1,3 +1,6 @@
+### Study-and-verification-of-truth-tables-for-different-logic-gates-realization-
+
+
 ### AIM:
 To study and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
