@@ -1,4 +1,3 @@
-![table](https://github.com/PriyankaAnnadurai/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118351569/cba0fdd1-d3bf-4963-8a03-abcc2724de6a)# Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
 ### AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
