@@ -1,5 +1,4 @@
-### Study-and-verification-of-truth-tables-for-different-logic-gates-realization-
-
+## EXP 1: STUDY OF BASIC DIGITAL IC'S AND VERIFICATION OF TRUTH TABLES FOR DIFFERENT LOGIC GATES REALIZATION
 
 ### AIM:
 To study and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
