@@ -101,7 +101,8 @@ endmodule
 ### RTL Diagram:
 ![1](https://github.com/PriyankaAnnadurai/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118351569/4e8a23e5-bcff-4189-8c93-f47bbc5ee663)
 ### Truthtable:
-![table](https://github.com/PriyankaAnnadurai/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118351569/e4a5b73c-b958-4d61-8a73-b482682cace7)
+![image](https://github.com/PriyankaAnnadurai/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118351569/e4d073a0-e6e2-4e29-95ca-bbe23efc4078)
+
 ### Output Waveform:
 ![3](https://github.com/PriyankaAnnadurai/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118351569/7a8fd0c5-c138-4543-81b7-907f804e31a1)
 ### Result:
