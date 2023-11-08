@@ -1,15 +1,14 @@
-#### NAME:PRIYANKA.A
-#### REG.NO:212222230113
-## EXP 1 : STUDY OF BASIC DIGITAL IC'S AND VERIFICATION OF TRUTH TABLES FOR DIFFERENT LOGIC GATES REALIZATION
 
-### AIM:
+# EXP 1 : STUDY OF BASIC DIGITAL IC'S AND VERIFICATION OF TRUTH TABLES FOR DIFFERENT LOGIC GATES REALIZATION
+
+## AIM:
 To study and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
-### Equipments Required:
+## Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
 ## Theory
-### Introduction
+## Introduction
 Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
 AND gate
